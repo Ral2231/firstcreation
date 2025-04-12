@@ -1,0 +1,65 @@
+body { 
+  background-image: url(pic/yrak.jpg);
+  background-size: cover;
+
+}
+
+.kitchen_background {
+   position: absolute;
+  background-color: hsl(208, 100%, 97%, 50%);
+  width: 80%;
+  height: 80%;
+  border-radius: 2cm ;
+  top: 15%;
+  left: 10%;
+}
+.kitchen_2background {
+   position: absolute;
+  background-color: rgba(26, 25, 25, 0.808);
+  width: 80%;
+  height: 80%;
+  border-radius: 1cm;
+  top: 12%;
+  left: 10%;
+}
+
+.knives{
+
+}
+
+/* .knife1 {
+  position: absolute;
+  height:15%;
+  width: 10%;
+  left: ;
+  top: ;
+  transition: ;
+
+}
+.knife2 {
+  position: absolute;
+  height: 15%;
+  width: 10%;
+  left: ;
+  top: ;
+  transition: ;
+
+}
+.knife3 {
+  position: absolute;
+  height: 15%;
+  width: 15%;
+  left: ;
+  top: ;
+  transition: ;
+
+} */
+ 
+
+
+
+
+
+
+
+

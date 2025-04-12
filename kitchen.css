@@ -1,0 +1,15 @@
+body { 
+  background-image: url(pic/yrak.jpg);
+  background-size: cover;
+}
+
+.layerone {
+  position: absolute;
+  
+  
+}
+
+.layertwo {
+  margin-top: 12cm;
+  margin-left: 12cm;
+}
